@@ -1,5 +1,6 @@
 # User-Lorem-Ipsums
 phpを用いてダイナミックwebサーバーをAWS上に構築
+https://userlorem.hagitech.net/
 ## アプリケーション概要
 Fakerを用いて生成したUserデータをHTMLで出力し, Webサイトを表示. <br>また、Markdown, JSONやTextファイルなどで選択してファイル形式でランダムユーザーデータを出力可能.<br>
 <img width="418" alt="スクリーンショット 2023-09-12 20 33 33" src="https://github.com/KoshinHagimoto/User-Lorem-Ipsums/assets/127278864/af518a73-d9a0-4860-9f68-8eaf006a5df6">
